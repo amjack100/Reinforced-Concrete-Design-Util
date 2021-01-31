@@ -1,0 +1,12 @@
+setup.cfg
+setup.py
+src/colstruct/__init__.py
+src/colstruct/eval.py
+src/colstruct/main.py
+src/colstruct/ops.py
+src/colstruct.egg-info/PKG-INFO
+src/colstruct.egg-info/SOURCES.txt
+src/colstruct.egg-info/dependency_links.txt
+src/colstruct.egg-info/entry_points.txt
+src/colstruct.egg-info/requires.txt
+src/colstruct.egg-info/top_level.txt
